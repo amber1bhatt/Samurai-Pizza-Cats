@@ -3,6 +3,10 @@
 ## Description
 ...
 
+## Video Demo
+
+https://user-images.githubusercontent.com/43303850/186078048-7a4a5811-0497-4169-a86a-8b3cb1290a3c.mp4
+
 ## Running the code:
 
 1. Run `yarn install:all` to install dependencies
