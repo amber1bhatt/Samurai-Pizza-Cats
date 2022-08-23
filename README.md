@@ -1,3 +1,8 @@
+# Samurai Pizza Cats
+
+## Description
+...
+
 ## Running the code:
 
 1. Run `yarn install:all` to install dependencies
